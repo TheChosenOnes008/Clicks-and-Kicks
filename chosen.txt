@@ -1,0 +1,5 @@
+requirements:
+1)system management  
+2)security
+3)AI
+4)quality UI
